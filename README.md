@@ -12,3 +12,14 @@ Instructions for each team (1 to 6 people):
   8. All results will be announced on **August 25th 2022, 11am-1pm US ET**.
   
 ## Hackathon Challenges: 
+  ### 1. Green Qupermarket (Technical Focus) --> *by Deloitte*
+  ### 2. Green Qupermarket (Business Focus) --> *by Deloitte*
+  ### 3. Digital-analog Variational Quantum Eigensolver --> *by IQM*
+  ### 4. World-class Quantum chemistry with TKET --> *by Quantinuum*
+  ### 5. Quantum Natural Language Processing with lambeq --> *by Quantinuum*
+  ### 6. Humans vs. Quantum Computers --> *by IBM*
+  ### 7. Random number generation using boson sampling --> *by ORCA Computing*
+  ### 8. Quantum approximate optimisation algorithms for real-world scenarios --> *by Strangeworks*
+  ### 9. Quantum Hardware Education Challenge --> *by QWorld*
+  
+  

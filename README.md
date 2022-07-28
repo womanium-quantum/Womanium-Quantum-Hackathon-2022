@@ -10,6 +10,15 @@ Instructions for each team (1 to 6 people):
   6. Work on your team repository during the Hack period (**August 8th 2022 - August 23rd 2022**). Your repository has to be made public at the time of the Hackathon end for us to be able to judge your solutions. All work inside your team repository will be considered as the final submission for this hackathon.
   7. Please do not modify your team repository between the Judging period (**August 24th 2022 - August 25th 2022**). If you modify your team repository during this period, your submission may be subject to disqualification. 
   8. All results will be announced on **August 25th 2022, 11am-1pm US ET**.
+
+## What should your Team Repository contain?
+  1. Name of the team.
+  2. Name of all team members, along with their Discord ID, Github ID, and contact email.
+  3. Name of the Challenge they are participating in.
+  4. A comprehensive ReadMe file which contains all the details of your hack solution.
+  5. All necessary code files, pitch deck and any other information you feel is required to judge your challenge solution.
+  6. Remember to submit your Team repository by submitting a PR only to the challenge repository you are working on. Final Team repositories must be made public and submitted by August 23rd 2022.
+  
   
 ## Hackathon Challenges: 
   ### 1. Green Qupermarket (Technical Focus) --> *by Deloitte*

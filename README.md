@@ -24,7 +24,7 @@ Instructions for each team (1 to 6 people):
   ### 1. Quantum Hardware Education Challenge --> *by QWorld*
   https://github.com/womanium-quantum/Quantum-Hardware-Education-Challenge---QWorld
   > Develop an interactive quantum hardware module for QWorld! QWorld currently offers the comprehensive Quantum Programming modules QBronze, QSilver and QNickel. In this challenge, you will expand the QWorld curriculum with an exciting interactive module on a hardware implementation of your choice: from superconducting qubits and Qiskit Metal to topological quantum computing.
-  ### 2. Green Qupermarket (Technical Focus) --> *by Deloitte*
+  ### 2. Green Qupermarket (Quantum Focus) --> *by Deloitte*
   https://github.com/womanium-quantum/Green-Qupermarket-Technical-Focus---Deloitte
   > The goal of the Green Qupermarket challenge is to analyze how quantum technology can optimize the energy consumption model of supermarkets in regard to its CO2 emissions. The challenge scenario features a supermarket, multiple electric vehicles, and various weather conditions. The energy management of the supermarket is to be optimized so that the total CO2 emission is minimal by using the green decentrally generated energy out of electric vehicles. The batteries of the electric vehicles can be used as additional storage capacity. Create a quantum algorithm, a quantum hybrid solution or a quantum inspired solution addressing the optimization of the utilization of electricity with respect to a minimum CO2 emission.
   ### 3. Green Qupermarket (Business Focus) --> *by Deloitte*

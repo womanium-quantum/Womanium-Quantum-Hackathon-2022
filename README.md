@@ -57,7 +57,7 @@ Instructions for each team (1 to 6 people):
   ### 13. Video AI Challenge --> *by Womanium*
   https://github.com/womanium-quantum/Video-AI-Challenge---Womanium
   > 
-  ### 14. Womanium Quantum & Entrepreneurship Challenge --> *by Womanium*
+  ### 14. Womanium Open Quantum & Entrepreneurship Challenge --> *by Womanium*
   https://github.com/womanium-quantum/Womanium-Quantum-Entrepreneurship-Challenge---Womanium
   > Have an idea for an opportunity where you think quantum computing can be applied? Build your own team’s challenge – technical, entrepreneurial or both!
   

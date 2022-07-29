@@ -51,14 +51,14 @@ Instructions for each team (1 to 6 people):
   ### 10. Predict the orbit of the James Webb space telescope with a quantum algorithm --> *by Herman Kolden*
   https://github.com/womanium-quantum/Predict-the-orbit-of-the-James-Webb-space-telescope-with-a-quantum-algorithm---Herman-Kolden
   > This challenge takes you from start to finish in exponentially fast quantum simulation of classical physics. After demonstrating a proof-of-concept implementation in python, you explore how quantum teleportation can bridge the gap to practical applications. Finally, your creativity is tested by sketching an end-to-end application of the circuit.
-  ### 11. Womanium Quantum & Entrepreneurship Challenge --> *by Womanium*
+  ### 11. Ultracold Entrepreneurship Challenge --> *by Womanium*
+  https://github.com/womanium-quantum/Cryogenic-Entrepreneurship-Challenge---Womanium
+  > Dilution refrigerators are in growing demand for ultra-low temperature research and applications. Develop a Dilution-refrigerator-as-a-service business model. With this model, anyone who needs a dilution refrigerator can access it with a service model without having to buy their own. This would be analogous to provisioning servers on AWS Cloud Computing versus buying, owning and operating on-premise servers.
+  ### 12. Video AI Challenge --> *by Womanium*
+  https://github.com/womanium-quantum/Video-AI-Challenge---Womanium
+  > 
+  ### 13. Womanium Quantum & Entrepreneurship Challenge --> *by Womanium*
   https://github.com/womanium-quantum/Womanium-Quantum-Entrepreneurship-Challenge---Womanium
   > Have an idea for an opportunity where you think quantum computing can be applied? Build your own team’s challenge – technical, entrepreneurial or both!
-  ### 12. Cryogenic Entrepreneurship Challenge --> *by Womanium*
-  https://github.com/womanium-quantum/Cryogenic-Entrepreneurship-Challenge---Womanium
-  > Dilution refrigerators (DRs) are in growing demand for ultra-low temperature measurements and the operation of superconducting quantum computers. Develop a Dilution-refrigerator-as-a-service business model. With this model, anyone who needs a DR can access it with a service model without having to buy their own DR. This would be analogous to provisioning servers on AWS Cloud Computing versus buying, owning and operating on-premise servers.
-  ### 13. Video AI Challenge --> *by Womanium*
-  https://github.com/womanium-quantum/Video-AI-Challenge---Womanium
-  > Short Description pending !!
   
   

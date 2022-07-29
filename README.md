@@ -56,7 +56,7 @@ Instructions for each team (1 to 6 people):
   > Dilution refrigerators are in growing demand for ultra-low temperature research and applications. Develop a Dilution-Refrigerator-as-a-Service (DRaaS) business model. With this model, anyone who needs a dilution refrigerator can access it with a service model without having to buy their own. This would be analogous to provisioning servers on AWS Cloud Computing versus buying, owning and operating on-premise servers.
   ### 13. Video AI Challenge --> *by Womanium*
   https://github.com/womanium-quantum/Video-AI-Challenge---Womanium
-  > 
+  > 500 hours of video is uploaded to YouTube every minute! What determines what we watch and what disappears into the deep abyss of the internet? There is a strong competition for our eyeballs and the quality of the video, its content, format, music - everything is very important to ensure that a viewer stays and listens to a video beyond the first 5 seconds. At Womanium too, we have faced the challenge - what should we do so that the high quality lectures given during the live sessions maintains its dynamism and engagement when uploaded to Youtube? When we compared our speakers to other pre-recorded education videos on the internet, we realised one important thing we needed to correct. And this correction method took 4 minutes of every 1 minute of video to correct. Your challenge here is to automate this error correction!
   ### 14. Womanium Open Quantum & Entrepreneurship Challenge --> *by Womanium*
   https://github.com/womanium-quantum/Womanium-Quantum-Entrepreneurship-Challenge---Womanium
   > Have an idea for an opportunity where you think quantum computing can be applied? Build your own team’s challenge – technical, entrepreneurial or both!

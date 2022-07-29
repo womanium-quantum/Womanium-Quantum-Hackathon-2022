@@ -42,22 +42,22 @@ Instructions for each team (1 to 6 people):
   ### 7. Quantum Natural Language Processing with lambeq --> *by Quantinuum*
   https://github.com/womanium-quantum/Quantum-Natural-Language-Processing-with-lambeq---Quantinuum
   > Quantum Natural Language Processing (QNLP) is a very young area of research aimed at designing and implementing NLP models that exploit certain quantum phenomena. One issue with current NLP systems is that it is impossible to predict their behavior accurately. The objective for the participants of this hackathon challenge is to get some familiarity with compositional models of natural language running on quantum hardware. Can QNLP offer the possibility to build interpretable systems?
-  ### 9. Quantum approximate optimisation algorithms for real-world scenarios --> *by Strangeworks*
+  ### 8. Quantum approximate optimisation algorithms for real-world scenarios --> *by Strangeworks*
   https://github.com/womanium-quantum/Quantum-approximate-optimisation-algorithms-for-real-world-scenarios---Strangeworks
   > Current era noisy quantum devices may be well suited to solving quantum approximate optimisation algorithms (QAOA) which are extremely relevant to real world scenarios. As time on a quantum computer is currently extremely expensive we find that many users are mostly interested in how much is this going to cost! In this project we will create and test a QAOA algorithm and analyse its accuracy as we vary the depth and complexity of the quantum circuit to estimate the usefulness of the solution vs. the overall cost for running such an algorithm.
-  ### 10. Humans vs. Quantum Computers --> *by IBM*
+  ### 9. Humans vs. Quantum Computers --> *by IBM*
   https://github.com/womanium-quantum/Humans-vs-Quantum-Computers---IBM
   > Create a working interactive ‘program’ (it can be a website, game, app, etc.) in which a human user is facing off against a quantum computer. This is broad on purpose - the program can be built in many different ways. Your program should implement strategies that seriously challenge the human player. The implementation must utilize more than just probabilities related to measuring quantum states. You must use Qiskit to program the computer’s gameplay strategy, and as much as possible, the strategy should be implemented with quantum circuits and quantum gates on real quantum hardware (although using the Simulator is understandable given the time limit).
-  ### 11. Predict the orbit of the James Webb space telescope with a quantum algorithm --> *by Herman Kolden*
+  ### 10. Predict the orbit of the James Webb space telescope with a quantum algorithm --> *by Herman Kolden*
   https://github.com/womanium-quantum/Predict-the-orbit-of-the-James-Webb-space-telescope-with-a-quantum-algorithm---Herman-Kolden
   > This challenge takes you from start to finish in exponentially fast quantum simulation of classical physics. After demonstrating a proof-of-concept implementation in python, you explore how quantum teleportation can bridge the gap to practical applications. Finally, your creativity is tested by sketching an end-to-end application of the circuit.
-  ### 12. Cryogenic Entrepreneurship Challenge --> *by Womanium*
+  ### 11. Cryogenic Entrepreneurship Challenge --> *by Womanium*
   https://github.com/womanium-quantum/Cryogenic-Entrepreneurship-Challenge---Womanium
   > Dilution refrigerators are in growing demand for ultra-low temperature research and applications. Develop a Dilution-Refrigerator-as-a-Service (DRaaS) business model. With this model, anyone who needs a dilution refrigerator can access it with a service model without having to buy their own. This would be analogous to provisioning servers on AWS Cloud Computing versus buying, owning and operating on-premise servers.
-  ### 13. Video AI Challenge --> *by Womanium*
+  ### 12. Video AI Challenge --> *by Womanium*
   https://github.com/womanium-quantum/Video-AI-Challenge---Womanium
   > 500 hours of video is uploaded to YouTube every minute! What determines what we watch and what disappears into the deep abyss of the internet? There is a strong competition for our eyeballs and the quality of the video, its content, format, music - everything is very important to ensure that a viewer stays and listens to a video beyond the first 5 seconds. At Womanium too, we have faced the challenge - what should we do so that the high quality lectures given during the live sessions maintains its dynamism and engagement when uploaded to Youtube? When we compared our speakers to other pre-recorded education videos on the internet, we realised one important thing we needed to correct. And this correction method took 4 minutes of every 1 minute of video to correct. Your challenge here is to automate this error correction!
-  ### 14. Womanium Open Quantum & Entrepreneurship Challenge --> *by Womanium*
+  ### 13. Womanium Open Quantum & Entrepreneurship Challenge --> *by Womanium*
   https://github.com/womanium-quantum/Womanium-Quantum-Entrepreneurship-Challenge---Womanium
   > Have an idea for an opportunity where you think quantum computing can be applied? Build your own team’s challenge – technical, entrepreneurial or both!
   

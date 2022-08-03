@@ -48,7 +48,7 @@ Instructions for each team (1 to 6 people):
   ### 9. Humans vs. Quantum Computers --> *by IBM*
   https://github.com/womanium-quantum/Humans-vs-Quantum-Computers---IBM
   > Create a working interactive ‘program’ (it can be a website, game, app, etc.) in which a human user is facing off against a quantum computer. This is broad on purpose - the program can be built in many different ways. Your program should implement strategies that seriously challenge the human player. The implementation must utilize more than just probabilities related to measuring quantum states. You must use Qiskit to program the computer’s gameplay strategy, and as much as possible, the strategy should be implemented with quantum circuits and quantum gates on real quantum hardware (although using the Simulator is understandable given the time limit).
-  ### 10. Predict the orbit of the James Webb space telescope with a quantum algorithm --> *by Herman Kolden*
+  ### 10. Predict the orbit of the James Webb space telescope with a quantum algorithm --> *by Herman Øie Kolden*
   https://github.com/womanium-quantum/Predict-the-orbit-of-the-James-Webb-space-telescope-with-a-quantum-algorithm---Herman-Kolden
   > This challenge takes you from start to finish in exponentially fast quantum simulation of classical physics. After demonstrating a proof-of-concept implementation in python, you explore how quantum teleportation can bridge the gap to practical applications. Finally, your creativity is tested by sketching an end-to-end application of the circuit.
   ### 11. Cryogenic Entrepreneurship Challenge --> *by Womanium*

@@ -17,7 +17,7 @@ Instructions for each team (1 to 6 people):
   3. Name of the Challenge they are participating in.
   4. A comprehensive ReadMe file which contains all the details of your hack solution.
   5. All necessary code files, pitch deck and any other information you feel is required to judge your challenge solution.
-  6. Remember to submit your Team repository by submitting a PR only to the challenge repository you are working on. Final Team repositories must be made public and submitted by August 23rd 2022.
+  6. Remember to submit your Team repository by creating a fork only to the challenge repository you are working on. Final Team repositories must be made public and submitted by August 23rd 2022.
   
   
 ## Hackathon Challenges:

@@ -14,10 +14,11 @@ Instructions for each team (1 to 6 people):
 ## What should your Team Repository contain?
   1. Name of the team.
   2. Name of all team members, along with their Discord ID, Github ID, and contact email.
-  3. Name of the Challenge they are participating in.
-  4. A comprehensive ReadMe file which contains all the details of your hack solution.
-  5. All necessary code files, pitch deck and any other information you feel is required to judge your challenge solution.
-  6. Remember to submit your Team repository by creating a fork only to the challenge repository you are working on. Final Team repositories must be made public and submitted by August 23rd 2022.
+  3. Name of the Pitch Presenter.
+  4. Name of the Challenge they are participating in.
+  5. A comprehensive ReadMe file which contains all the details of your hack solution.
+  6. All necessary code files, pitch deck and any other information you feel is required to judge your challenge solution.
+  7. Remember to submit your Team repository by creating a fork only to the challenge repository you are working on. Final Team repositories must be made public and submitted by August 23rd 2022.
   
   
 ## Hackathon Challenges:

@@ -8,17 +8,18 @@ Instructions for each team (1 to 6 people):
   4. Finalise your team and the challenge you want to work during the Hackathon. Submit the Team & Challenge Registration Form (see link on Discord) by **August 5th 2022**
   5. Fork/duplicate the challenge repository of your choice (for the purposes of these instructions, this forked/duplicated repository will be referred to as your “team repository”). 
   6. Work on your team repository during the Hack period (**August 8th 2022 - August 23rd 2022**). Your repository has to be made public at the time of the Hackathon end for us to be able to judge your solutions. All work inside your team repository will be considered as the final submission for this hackathon.
-  7. Please do not modify your team repository between the Judging period (**August 24th 2022 - August 25th 2022**). If you modify your team repository during this period, your submission may be subject to disqualification. 
-  8. All results will be announced on **August 25th 2022, 11am-1pm US ET**.
+  7. Submission deadline: August 23rd 2022, 23:59pm US ET. Add the Github submission link (public link of your forked repo) on Canvas to be eligible for a Certificate: https://canvas.instructure.com/courses/4914757/quizzes/11797400
+  8. Please do not modify your team repository between the Judging period (**August 24th 2022 - August 25th 2022**). If you modify your team repository during this period, your submission may be subject to disqualification.
+  9. All results will be announced on Demo Day, **August 25th 2022, 11am-1:30pm US ET**.
 
 ## What should your Team Repository contain?
   1. Name of the team.
   2. Name of all team members, along with their Discord ID, Github ID, and contact email.
-  3. Name of the Pitch Presenter.
-  4. Name of the Challenge they are participating in.
-  5. A comprehensive ReadMe file which contains all the details of your hack solution.
-  6. All necessary code files, pitch deck and any other information you feel is required to judge your challenge solution.
-  7. Remember to submit your Team repository by creating a fork only to the challenge repository you are working on. Final Team repositories must be made public and submitted by August 23rd 2022.
+  3. Name of the Pitch Presenter on Demo Day.
+  4. Name of the Challenge.
+  5. A comprehensive ReadMe file which contains all the important information about your hack solution.
+  6. All necessary code files, pitch deck and any other information you feel is required to judge your challenge solution. (Scoring rubric can be found in the information document you received by email and on Discord.)
+  7. Remember to submit your Team repository by creating a fork only to the challenge repository you are working on. Final Team repositories must be made public and submitted by August 23rd 2022, 23:59pm US ET. Each team member needs to add the Github submission link (public link of your forked repo) on Canvas to be eligible for a Certificate: https://canvas.instructure.com/courses/4914757/quizzes/11797400
   
   
 ## Hackathon Challenges:

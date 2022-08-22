@@ -21,7 +21,7 @@ Add the Github submission link (public link of your forked repo) on Canvas to be
   5. A comprehensive ReadMe file which contains all the important information about your hack solution.
   6. All necessary code files, pitch deck and any other information you feel is required to judge your challenge solution. (Scoring rubric can be found in the information document you received by email and on Discord.)
   7. Remember to submit your Team repository by creating a fork only to the challenge repository you are working on. Final Team repositories must be made public and submitted by August 23rd 2022, 23:59pm US ET. Each team member needs to add the Github submission link (public link of your forked repo) on Canvas to be eligible for a Certificate: https://canvas.instructure.com/courses/4914757/quizzes/11797400
-  
+_Make sure your repo does NOT contain any personal or team's tokens/access information to access backends._  
   
 ## Hackathon Challenges:
   ### 1. Quantum Hardware Education Challenge --> *by QWorld*
